@@ -34,3 +34,12 @@ Follow these steps to set up the project on your local machine.
    git clone https://github.com/Yashita16/Journal.git
    cd Journal
 
+2.Install dependencies:
+   npm install
+
+3.Start the development server:
+git remote add origin https://github.com/Yashita16/Journal.git
+git push -u origin main
+
+
+
